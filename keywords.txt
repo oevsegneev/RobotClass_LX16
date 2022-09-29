@@ -1,0 +1,7 @@
+# Syntax Coloring Map For RobotClass LX16
+
+# Datatypes (KEYWORD1)
+RobotClass_LX16	KEYWORD1
+
+# Constants (LITERAL1)
+BAUD	LITERAL1
